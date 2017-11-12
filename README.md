@@ -19,7 +19,8 @@ v2.0/out.json	:	output/parsed json
 v2.0/selection.csv	:	output of selection run  
   
   
-Project still need completion and refinements.   
+  
+Project still need completion and refinements  
   
 ---  
 ## 2DO list:  
