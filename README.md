@@ -9,15 +9,10 @@ python interactive script to query an online API and handle the returned json vi
 ## V2.0 latest version  
 
 v1.0/jpars.py	:	API parser v1.0  
-  
-v2.0/in.json	:	input file  
-  
-v2.0/jpars2.py	:	API parser v2.0  
-  
-v2.0/out.json	:	output/parsed json  
-  
-v2.0/selection.csv	:	output of selection run  
-  
+in.json	:	input file  
+jpars2.py	:	API parser v2.0  
+out.json	:	output/parsed json    
+selection.csv	:	output of selection run  
   
   
 Project still need completion and refinements  
