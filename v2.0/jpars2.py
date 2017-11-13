@@ -23,7 +23,7 @@ from pprint import pprint
 
 ## import JSON string from hard-coded URL  
 
-url = '/api-punkapi-com-v2-beers.json'
+url = 'https://api.punkapi.com/v2/beers'
 
 print("Fetching RAW data")
 

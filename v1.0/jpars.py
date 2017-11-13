@@ -15,7 +15,7 @@ except NameError:
 
 ## import JSON string from hard-coded URL  
 
-url = '/api-punkapi-com-v2-beers.json'
+url = 'https://api.punkapi.com/v2/beers'
 
 with open('in.json', 'w') as html_data:
 	html_data.write(urllib2.urlopen(url).read())
